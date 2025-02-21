@@ -32,8 +32,11 @@ By working on **SentimentXpert**, you'll gain hands-on experience with:
 
 ## 📂 Dataset  
 - **Source**: IMDb Movie Reviews  
+- **Download Link**: [IMDb Dataset of 50K Movie Reviews](https://ai.stanford.edu/~amaas/data/sentiment/)  
 - **Labels**: Positive and Negative Sentiments  
 - **Preprocessing**: HTML tag removal, tokenization, text encoding, and padding  
+
+📌 *Since the dataset is too large to be uploaded to GitHub, you can download it from the link above before running the project.*
 
 ---
 
